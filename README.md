@@ -33,5 +33,5 @@ A fully functional chess game built with C# and Windows Presentation Foundation 
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/chess-wpf.git
+git clone https://github.com/GeorgiEnev/Chess-Game.git
 cd chess-wpf
